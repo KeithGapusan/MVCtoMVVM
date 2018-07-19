@@ -1,0 +1,6 @@
+framework module Pods_MasteringSoftwareArchitecturePattern {
+  umbrella header "Pods-MasteringSoftwareArchitecturePattern-umbrella.h"
+
+  export *
+  module * { export * }
+}
